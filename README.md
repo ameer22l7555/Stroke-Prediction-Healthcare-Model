@@ -62,7 +62,7 @@ The model provides insights into stroke prediction based on various health facto
 - Machine learning best practices for healthcare data
 
 ## 👨‍💻 Author
-- Aums Tech
+- Ameer
 
 ---
 *This project is for educational purposes and should not be used as a substitute for professional medical advice.*
